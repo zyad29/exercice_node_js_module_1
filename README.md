@@ -1,6 +1,6 @@
-** Guide de récupération de l’exercice : **
+# Guide de récupération de l’exercice : 
 
-** Prérequis : avoir git + node + npm installés **
+## Prérequis : avoir git + node + npm installés
 
 1-	Utilisez la commande git clone pour récupérer l’exercice.
 2-	Utilisez la commande npm install pour installer les dépendances nécessaires.
